@@ -1,6 +1,19 @@
 // Server that receives and sends bytes.
 // ByteServer
+
+//THIS IS A COMENTARY
+
+/*
+ AAAAAAAAAAAAAAAAAA
  
+ 
+ AAAAAAAAAAAAAAA
+ 
+ AAAAA 
+ 
+
+ */
+
 import java.net.*;
 import java.io.*;
 
