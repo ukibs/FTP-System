@@ -22,10 +22,20 @@ public class ByteServer {
 
   public static void main(String args[]) {
     int port = 1300;
+    // ports 20, 21, and other decided in active
     ServerSocket sServ;
     Socket sCon;
     DataInputStream input;
     DataOutputStream output;
+    
+    /*
+     * Commands
+     * LIST
+     * RETR
+     * STOR
+     * QUIT
+     * 
+     * */
     
     int data = -1;
     float half;

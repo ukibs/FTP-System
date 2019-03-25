@@ -1,5 +1,5 @@
 import java.io.*;
-//fdsfgdss
+//fdsfgdssds
 class CopiaBinaria
 {
 	public static void main(String arg[])
